@@ -1,1 +1,1 @@
-Python and C language to use
+Python and C only bro.
